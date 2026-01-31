@@ -10,7 +10,7 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWZxd2hlMW94a29pcHd6ZW40dD
 
 ---
 
-### 🧠 Skills & Tools
+ Skills & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
