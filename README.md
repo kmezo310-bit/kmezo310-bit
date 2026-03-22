@@ -60,4 +60,6 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWZxd2hlMW94a29pcHd6ZW40dD
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kmezo310-bit/kmezo310-bit/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/kmezo310-bit/kmezo310-bit/blob/output/github-snake-dark.svg)
+
+
