@@ -43,7 +43,7 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OWZxd2hlMW94a29pcHd6ZW40dD
 <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mostafa-mahmoud-tohamy-2738173a3" target="_blank">
+<a href="https://www.linkedin.com/in/mostafa-mahmoud-tohamy/" target="_blank">
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
 </a>
 
